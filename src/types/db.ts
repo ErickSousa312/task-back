@@ -1,0 +1,1 @@
+export interface BancoDeDados extends Array<{ nome: string; idade: number }> {}

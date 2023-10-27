@@ -14,11 +14,12 @@
 		"allowJs": true,
 		"allowSyntheticDefaultImports": true,
 		"sourceMap": true,
-		"types": [],
+		"types": ["node"],
 		"incremental": true,
 		"isolatedModules": true,
 		"noUncheckedIndexedAccess": true,
-		"paths": {}
+		"paths": {},
+		
 	},
 	"tsc-alias": {
 		"resolveFullPaths": true

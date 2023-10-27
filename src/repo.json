@@ -1,0 +1,476 @@
+[
+  {
+    "type": "parent",
+    "warranty_unity": "m",
+    "dimensions_unity": "cm",
+    "weight_unity": "g",
+    "condition": "novo",
+    "group_images_by": "cor",
+    "uuid": "e0981147-1f9c-4b65-bb45-18337bb1bb8e",
+    "sku": "101849",
+    "name": "Tênis Feminino Mizuno Wave Creation 21",
+    "items_per_box": 1,
+    "active": true,
+    "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+    "height": 110,
+    "width": 220,
+    "depth": 330,
+    "gross_weight": 800,
+    "net_weight": 800,
+    "resell_price": 49.9,
+    "main_description": "O Tênis Feminino Mizuno Wave Creation 21 é lançamento 2020, e foi desenvolvido\npara dar equilíbrio, o que ajuda a economizar energia do esportista. A nova\ntecnologia Infinity Wave 2.0 está totalmente reformulada, proporcionando maior\nimpulsão e conforto para a corrida, além do calçado com um visual sofisticado.\nCabedal confeccionado em malha Mesh (tecido com tramas abertas que permitem a\nventilação) e material sintético. Possui fechamento em cadarço. Apresenta o\nlogotipo da marca na lateral, na língua, na parte de trás e na palmilha. Na\nlateral o nome Wave Creation 21. Palmilha em EVA. Solado em Borracha TR.\n\n \n\nPrincipais Características\nNome: Tênis Feminino Mizuno Wave Creation 21\nGênero: Feminino\nMaterial do Cabedal: Malha Mesh e Material Sintético\nTipo de Ajuste: Cadarço\nPalmilha: Em EVA Antibacteriana (evita bactérias e fungos)\nSolado: Borracha TR\n\nTABELA DE MEDIDAS\nTamanho BR (Brasil) - Centímetros\n34  ------------------  23,0 – 23,5 cm\n35  ------------------  23,6 – 24,0 cm\n36  ------------------  24,1 – 24,5 cm\n37  ------------------  24,6 – 25,0 cm\n38  ------------------  25,1 – 25,5 cm\n39  ------------------  25,6 – 26,0 cm",
+    "secondary_description": "",
+    "observations": "",
+    "gtin": "",
+    "generic": false,
+    "created_at": "2023-10-19T23:42:25.117Z",
+    "updated_at": "2023-10-24T17:16:13.277Z",
+    "inventory_uuid": "7bd68264-da6f-4f19-8e62-201fcf7b81ef",
+    "inventory_id": "101849",
+    "images": [],
+    "brand": "Mizuno ",
+    "own_validations": [
+      {
+        "id": "missing_ml_specs",
+        "priority": 2,
+        "message": "Ficha técnica Mercado Livre incompleta"
+      },
+      {
+        "id": "missing_shopee_specs",
+        "priority": 2,
+        "message": "Ficha técnica Shopee incompleta"
+      },
+      {
+        "id": "missing_images",
+        "priority": 2,
+        "message": "Imagens incompletas"
+      }
+    ],
+    "completeness": 36,
+    "properties": [],
+    "variants": [
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "b393ea4d-344d-446c-af44-4ff19d21fdae",
+        "sku": "101849234",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.358Z",
+        "inventory_uuid": "9fc540f9-967f-4ec9-92b4-f21a2a4c1a0e",
+        "inventory": 12,
+        "inventory_id": "101849234",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Prata e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "34",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "157b9c4e-358f-4633-9c42-c7a50aa8b94a",
+        "sku": "101849235",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.363Z",
+        "inventory_uuid": "f7cc0d5d-9be3-4561-8611-74f01ef81efc",
+        "inventory": 1,
+        "inventory_id": "101849235",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Prata e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "35",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "c72ca740-ec83-4356-93b5-c1c0d92372a2",
+        "sku": "101849236",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.368Z",
+        "inventory_uuid": "7425dc41-27bd-4d5e-beb6-688248d3ed84",
+        "inventory": 0,
+        "inventory_id": "101849236",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Prata e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "36",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "334b72e2-bee0-458a-b5ef-c2f96572d922",
+        "sku": "101849237",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.373Z",
+        "inventory_uuid": "edd13259-fd9b-412b-a987-5e9355bb90f2",
+        "inventory": 0,
+        "inventory_id": "101849237",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Prata e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "37",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "3915bcd9-b2ee-4f27-a394-b20dee85ec0a",
+        "sku": "101849238",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.378Z",
+        "inventory_uuid": "12137989-08f4-424d-9857-d83ef02cb762",
+        "inventory": 0,
+        "inventory_id": "101849238",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Prata e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "38",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "d42184f8-b22c-41b8-bf7c-3cbb3dcf20e3",
+        "sku": "101849239",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.384Z",
+        "inventory_uuid": "dff6db9f-8e56-406f-877b-85107ad31e6c",
+        "inventory": 0,
+        "inventory_id": "101849239",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Prata e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "39",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "1543a5fb-1eb7-4776-993c-b961fc39ef89",
+        "sku": "101849134",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.328Z",
+        "inventory_uuid": "678f5be9-af75-4b83-ad5a-b923cd4ff537",
+        "inventory": 1,
+        "inventory_id": "101849134",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Preto e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "34",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "c92e2967-f7f4-48f9-83c3-c8a122b9d320",
+        "sku": "101849135",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.333Z",
+        "inventory_uuid": "d4d674b2-fe0d-45e1-a049-4c86373cf161",
+        "inventory": 1,
+        "inventory_id": "101849135",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Preto e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "35",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "680526ba-ba12-4b63-85ac-090dfc1df4f5",
+        "sku": "101849136",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.338Z",
+        "inventory_uuid": "91b2f5bc-030e-4223-a057-8f8f74c84d32",
+        "inventory": 0,
+        "inventory_id": "101849136",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Preto e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "36",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "b017edb5-408e-49a1-bad8-e255d9a802a2",
+        "sku": "101849137",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.343Z",
+        "inventory_uuid": "1df9e581-799a-422f-a9c1-08d908887021",
+        "inventory": 1,
+        "inventory_id": "101849137",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Preto e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "37",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "0d248b62-57d1-41f0-a4ac-a61dcc80782e",
+        "sku": "101849138",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.348Z",
+        "inventory_uuid": "7ebed21f-2ca2-4b6e-8fac-8fce5376e9b0",
+        "inventory": 1,
+        "inventory_id": "101849138",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Preto e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "38",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      },
+      {
+        "type": "variant",
+        "warranty_unity": "m",
+        "dimensions_unity": "cm",
+        "weight_unity": "g",
+        "condition": "novo",
+        "group_images_by": "sku",
+        "uuid": "454f64e1-b00c-45d5-b286-e9cc213a80c1",
+        "sku": "101849139",
+        "name": "Tênis Feminino Mizuno Wave Creation 21",
+        "items_per_box": 1,
+        "active": true,
+        "brand_uuid": "a551e74b-f023-4a3f-8a9a-a2c071418869",
+        "resell_price": 49.9,
+        "generic": false,
+        "created_at": "2023-10-19T23:42:25.117Z",
+        "updated_at": "2023-10-24T17:16:13.352Z",
+        "inventory_uuid": "cf6dd10a-06f3-4a36-bb5e-045f2212c319",
+        "inventory": 1,
+        "inventory_id": "101849139",
+        "images": [],
+        "properties": [
+          {
+            "name": "Cor",
+            "value": "Preto e Pink",
+            "type": "variation"
+          },
+          {
+            "name": "Tamanho",
+            "value": "39",
+            "type": "variation"
+          }
+        ],
+        "inventory_history": []
+      }
+    ],
+    "inventory_history": [],
+    "categories": {}
+  }
+]

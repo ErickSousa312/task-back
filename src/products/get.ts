@@ -4,13 +4,14 @@ export async function getAllProducts(access_token: string) {
 	const { products } = await apiClient(
 		"get",
 		"/market/retailer/products",
-		"access_token",
+		access_token,
 		{
 			page: 1,
 		}
-	).catch(() => ({
-		products: [],
-	}));
+	
+	).catch((error) =>{
+		return {products:[]}
+	});
 
 	return products;
 }
@@ -19,26 +20,30 @@ export async function getFullProduct(access_token: string) {
 	const { product } = await apiClient(
 		"get",
 		"/market/retailer/products/:product_uuid",
-		"access_token",
+		access_token,
 		{
-			product_uuid: "123",
+			product_uuid: "e0981147-1f9c-4b65-bb45-18337bb1bb8e",
 		}
 	);
+	return product;
 }
 
-export async function createUser() {
-	const user = await apiClient("post", "/auth/user", "123", {
-		first_name: "Matheus",
-		last_name: "Lobo",
+export async function createUser(access_token: string) {
+	const user = await apiClient("post", "/auth/user", access_token, {
+		first_name: "erik",
+		last_name: "sales",
 		password: "teste123",
 		phone: "11999999999",
-		email: "teste123123123@teste.com",
+		email: "ericksousa312@teste.com",
 	});
+	return user;
 }
 
 export async function loginUser() {
 	const { access_token } = await apiClient("post", "/auth", "123", {
-		email: "teste123123123@teste.com",
+		email: "ericksousa312@teste.com",
 		password: "teste123",
 	});
+	return access_token;
+	
 }
