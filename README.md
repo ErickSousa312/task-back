@@ -8,6 +8,7 @@
  3. Não está modularidazado
  4. Me perdi fazendo alguns testes, então valeu o aprendizado (y)
  5. Não sei se era pra fazer com EndPoints
- 6. link para a loja criada https://lojateste1631.lojavirtualnuvem.com.br/produtos/?mpage=2
+ 6. Link para a loja criada https://lojateste1631.lojavirtualnuvem.com.br/produtos/?mpage=2
+ 7. Não pude mudar a visibilidade do repositoria por causa do fork
 
 ### Subir um repositório privado no github com sua solução e me convidar (lobomfz)
